@@ -1,0 +1,6 @@
+[submodule "onlyvibes/onlyvibes-backend"]
+	path = onlyvibes/onlyvibes-backend
+	url = https://github.com/Steve20144/onlyvibes-backend.git
+[submodule "onlyvibes/onlyvibes-frontend"]
+	path = onlyvibes/onlyvibes-frontend
+	url = https://github.com/Steve20144/onlyvibes-frontend.git
